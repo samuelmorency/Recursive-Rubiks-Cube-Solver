@@ -1,2 +1,2 @@
 # Unit-5
-Rubik's cube program
+Recursive Algorithm for solving a 2x2 Rubik's Cube
